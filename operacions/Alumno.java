@@ -1,4 +1,4 @@
-//package operacions;
+package operacions;
 public class Alumno{
 	private String dni;
 	private String nome;
